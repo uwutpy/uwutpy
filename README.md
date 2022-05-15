@@ -2,6 +2,7 @@
 - 👀👀 I’m interested in C# , Pyhton
 - 🌱 I’m currently learning ...
 🌱 I’m currently learning  C# , Pyhton
+
 📫 How to reach me discord: umut#1337
 
 
