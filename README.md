@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 🌱 I’m currently learning  C# , Pyhton
 
-📫 How to reach me discord: umut#1337
+📫 How to reach me discord: wearth#9891
 
 
 <!---
